@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f9d5666c1cc4d0048a0ecd4885e009df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - drop: {instanceID: 0}
+  - budova: {instanceID: 0}
+  - manager: {instanceID: 0}
+  - trees: {instanceID: 0}
+  - buildInfo: {instanceID: 0}
+  - player: {instanceID: 0}
+  - fuel: {instanceID: 0}
+  - dropPocket: {fileID: 5098826119205518936, guid: f70d23078b695f4439afe7e66e5099c2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

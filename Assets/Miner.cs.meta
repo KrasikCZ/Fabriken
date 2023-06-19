@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dc3673698b2506f4e9ff0129233961b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - drop: {instanceID: 0}
+  - budova: {instanceID: 0}
+  - manager: {instanceID: 0}
+  - trees: {instanceID: 0}
+  - buildInfo: {instanceID: 0}
+  - player: {instanceID: 0}
+  - fuel: {instanceID: 0}
+  - dropPocket: {fileID: 5098826119205518936, guid: f70d23078b695f4439afe7e66e5099c2, type: 3}
+  - copper: {instanceID: 0}
+  - iron: {instanceID: 0}
+  - coal: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
